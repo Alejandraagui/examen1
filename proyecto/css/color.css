@@ -1,0 +1,38 @@
+h1{
+    margin: 0;
+    padding: 20px 0;
+    color: #00539F;
+    text-shadow: 3px 3px 5px #f00,
+                   6px 6px 5px #0f0,
+                   9px 9px 5px #00f;
+    }
+    
+h3 {
+    font-family: Arial;
+  }
+ul.Navbar {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 2em;
+    right: 1em;
+    width: 9em;
+   }
+
+ul.Navbar li {
+    background: white;
+    margin: 0.5em 0;
+    padding: 0.3em;
+    border-right: 1em solid black }
+   ul.Navbar a{
+    text-decoration: none }
+   a:link {
+    color: blue; }
+   a:visited{
+    color: purple }
+    
+    h1{
+        color: red;
+       }
+       
